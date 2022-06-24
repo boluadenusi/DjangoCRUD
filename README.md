@@ -1,1 +1,1 @@
-# DjangoCRUD
+# DjangoCRUD || Blog Posts
